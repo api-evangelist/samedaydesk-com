@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SameDayDesk provides an agent commerce platform that enables businesses to create, manage, and ship agents for various services. Their solution focuses on simplifying agent onboarding, scheduling, and fulfillment, offering tools for real‑time tracking, analytics, and integration with existing workflows. The company emphasizes a user‑friendly interface and robust API support for developers to build custom integrations and automate agent‑related processes.
+SameDayDesk provides agent‑ready commerce solutions, offering MCP servers, x402 and native MPP payment routes, and machine storefronts. Their platform delivers bounded‑scope, production‑grade code, comprehensive tests, and a full deployment handoff, enabling developers to integrate agent workflows quickly. The service includes free apex tools, paid gateway options, and extensive documentation for building AI‑driven agent applications.
 
-**Areas:** Company · AgentCommerce · SaaS · Scheduling · Analytics
+**Areas:** Company · Payments · MCP · AgentCommerce · API
 
 ## samedaydesk-com on APIs.io
 
@@ -99,69 +99,63 @@ Everything profiled for samedaydesk-com is published on APIs.io rather than in t
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Agentic access (1)
-
-Which operations an agent can call, which act, and which need a human in the loop.
-
-- [Samedaydesk Com Agentic Access](https://apis.io/agentic-access/samedaydesk-com/samedaydesk-com-agentic-access/)
-
-#### JSON Schema (5)
-
-The data models the API reads and writes.
-
-- [JsonRpcClientResponse](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-client-response/)
-- [JsonRpcError](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-error/)
-- [JsonRpcRequest](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-request/)
-- [JsonRpcSuccess](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-success/)
-- [PageChangeArtifact](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-page-change-artifact/)
-
-#### JSON-LD (1)
-
-Linked-data contexts for the provider's vocabulary.
-
-- [Samedaydesk Com Context](https://apis.io/jsonld/samedaydesk-com/samedaydesk-com-context/)
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [samedaydesk-com API Rules](https://apis.io/rules/samedaydesk-com/samedaydesk-com-rules/)
-
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Samedaydesk Com Authentication](https://apis.io/security/samedaydesk-com/samedaydesk-com-authentication/)
 - [Samedaydesk Com Domain Security](https://apis.io/security/samedaydesk-com/samedaydesk-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Samedaydesk Com Scopes](https://apis.io/scopes/samedaydesk-com/samedaydesk-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Samedaydesk Com Plans Pricing](https://apis.io/plans/samedaydesk-com/samedaydesk-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Samedaydesk Com Rate Limits](https://apis.io/rate-limits/samedaydesk-com/samedaydesk-com-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://samedaydesk.com/)
-- [Documentation](https://samedaydesk.com/docs/x402-sdk/)
-- [Getting started](https://samedaydesk.com/docs/x402-sdk/go-quickstart.html)
+- [Documentation](https://samedaydesk.com/docs/x402-sdk/introduction.html)
+- [Getting started](https://samedaydesk.com/for-agents)
+- [API reference](https://samedaydesk.com/openapi.json)
+- [Sign up](https://samedaydesk.com/signup)
 - [Terms of service](https://samedaydesk.com/terms)
 - [Privacy policy](https://samedaydesk.com/privacy)
+- [GitHub](https://github.com/epistemedeus)
 
 ## API Evangelist rating
 
-**Kin Score 40.3** — developing · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 35.6** — thin · rubric 0.25.0 · scored 2026-10-30
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
-| Contract quality | 55.6 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 21.4 |
-| Access clarity | 21.1 |
+| Discoverability | 70.0 |
+| Contract quality | 42.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 34.2 |
 
-**Agent readiness 45.5** — agent-ready (gated down from agent-native)
+**Agent readiness 42.4** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
@@ -170,7 +164,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | verified |
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -180,9 +174,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | — |
-| Operation Distinctiveness | mostly |
+| Operation Distinctiveness | mostly (partial credit) |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.4** — Payments
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/samedaydesk-com/](https://apis.io/providers/samedaydesk-com/).
 
