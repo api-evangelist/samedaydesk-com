@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-samedaydesk-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://samedaydesk.com/
+SameDayDesk provides an agent commerce platform that enables businesses to create, manage, and ship agents for various services. Their solution focuses on simplifying agent onboarding, scheduling, and fulfillment, offering tools for real‑time tracking, analytics, and integration with existing workflows. The company emphasizes a user‑friendly interface and robust API support for developers to build custom integrations and automate agent‑related processes.
+
+**Areas:** Company · AgentCommerce · SaaS · Scheduling · Analytics
+
+## samedaydesk-com on APIs.io
+
+Everything profiled for samedaydesk-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/samedaydesk-com/](https://apis.io/providers/samedaydesk-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [samedaydesk-com A2A API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-a2a-api/) — The A2A API from samedaydesk-com — 3 operation(s) for a2a.
+- [samedaydesk-com Agent Operations API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-agent-operations-api/) — The Agent Operations API from samedaydesk-com — 13 operation(s) for agent operations.
+- [samedaydesk-com Agent Readiness API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-agent-readiness-api/) — The Agent Readiness API from samedaydesk-com — 1 operation(s) for agent readiness.
+- [samedaydesk-com Blockchain API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-blockchain-api/) — The Blockchain API from samedaydesk-com — 4 operation(s) for blockchain.
+- [samedaydesk-com Company Intelligence API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-company-intelligence-api/) — The Company Intelligence API from samedaydesk-com — 3 operation(s) for company intelligence.
+- [samedaydesk-com Correspondence API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-correspondence-api/) — The Correspondence API from samedaydesk-com — 1 operation(s) for correspondence.
+- [samedaydesk-com De Fi API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-defi-api/) — The DeFi API from samedaydesk-com — 4 operation(s) for defi.
+- [samedaydesk-com Distribution API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-distribution-api/) — The Distribution API from samedaydesk-com — 4 operation(s) for distribution.
+- [samedaydesk-com Funnel Evidence API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-funnel-evidence-api/) — The Funnel Evidence API from samedaydesk-com — 1 operation(s) for funnel evidence.
+- [samedaydesk-com Health API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-health-api/) — The Health API from samedaydesk-com — 1 operation(s) for health.
+- [samedaydesk-com Hosted Useful API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-hosted-useful-api/) — The Hosted Useful API from samedaydesk-com — 1 operation(s) for hosted useful.
+- [samedaydesk-com MCP API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-mcp-api/) — The Mcp API from samedaydesk-com — 1 operation(s) for mcp.
+- [samedaydesk-com Openapi.json API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-openapi-json-api/) — The Openapi.json API from samedaydesk-com — 1 operation(s) for openapi.json.
+- [samedaydesk-com Public Readiness API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-public-readiness-api/) — The Public Readiness API from samedaydesk-com — 1 operation(s) for public readiness.
+- [samedaydesk-com Security API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-security-api/) — The Security API from samedaydesk-com — 5 operation(s) for security.
+- [samedaydesk-com Settlement Radar API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-settlement-radar-api/) — The Settlement Radar API from samedaydesk-com — 3 operation(s) for settlement radar.
+- [samedaydesk-com Skill.md API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-skill-md-api/) — The Skill.md API from samedaydesk-com — 1 operation(s) for skill.md.
+- [samedaydesk-com Tools API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-tools-api/) — The Tools API from samedaydesk-com — 2 operation(s) for tools.
+- [samedaydesk-com Web Data API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-web-data-api/) — The Web Data API from samedaydesk-com — 6 operation(s) for web data.
+- [samedaydesk-com .well Known API](https://apis.io/apis/samedaydesk-com/samedaydesk-com-well-known-api/) — The .well Known API from samedaydesk-com — 3 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Samedaydesk Com Agentic Access](https://apis.io/agentic-access/samedaydesk-com/samedaydesk-com-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [JsonRpcClientResponse](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-client-response/)
+- [JsonRpcError](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-error/)
+- [JsonRpcRequest](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-request/)
+- [JsonRpcSuccess](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-json-rpc-success/)
+- [PageChangeArtifact](https://apis.io/schemas/samedaydesk-com/samedaydesk-com-page-change-artifact/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Samedaydesk Com Context](https://apis.io/jsonld/samedaydesk-com/samedaydesk-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [samedaydesk-com API Rules](https://apis.io/rules/samedaydesk-com/samedaydesk-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Samedaydesk Com Domain Security](https://apis.io/security/samedaydesk-com/samedaydesk-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://samedaydesk.com/)
+- [Documentation](https://samedaydesk.com/docs/x402-sdk/)
+- [Getting started](https://samedaydesk.com/docs/x402-sdk/go-quickstart.html)
+- [Terms of service](https://samedaydesk.com/terms)
+- [Privacy policy](https://samedaydesk.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.3** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 55.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 45.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/samedaydesk-com/](https://apis.io/providers/samedaydesk-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for samedaydesk-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/samedaydesk-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
